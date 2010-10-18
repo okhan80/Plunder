@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+
+Project("{1C3AB8E7-55B6-96E3-2E7F-F12FBA4BC3E7}") = "PirateEduGame", "PirateEduGame.csproj", "{DC9CA9EC-C671-F628-ABE1-93A81F216422}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC9CA9EC-C671-F628-ABE1-93A81F216422}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC9CA9EC-C671-F628-ABE1-93A81F216422}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC9CA9EC-C671-F628-ABE1-93A81F216422}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC9CA9EC-C671-F628-ABE1-93A81F216422}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	
+EndGlobal
